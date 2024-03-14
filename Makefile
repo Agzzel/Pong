@@ -1,4 +1,4 @@
-OBJS = main.cpp Text.cpp
+OBJS = main.cpp Text.cpp Player.cpp Ball.cpp
 
 CC = g++
 
